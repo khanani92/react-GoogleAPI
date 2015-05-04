@@ -1,7 +1,6 @@
 # react-GoogleAPI
 React.Js And GoogleAPI Map Sample
-Download the zip with the source code from the button above.
-Extract it to a folder somewhere on your computer.
+
 Open a new terminal (command prompt), and navigate to that folder.
 
 Execute : npm install.
